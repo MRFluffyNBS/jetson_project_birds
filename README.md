@@ -26,7 +26,7 @@ cd birds
 wget https://www.dropbox.com/s/sy0xgzaln60l7ys/resnet18.onnx
 ```
 You are all set to classify images! Return back to jetson-inference/python/training/classification
-4. 
+4. Download [this image]([Imgur](https://imgur.com/fnHoCtz)) to jetson-inference/python/training/classification 
 
 
 [View a video explanation here](video link)
