@@ -27,7 +27,7 @@ wget https://www.dropbox.com/s/sy0xgzaln60l7ys/resnet18.onnx
 ```
 You are all set to classify images! Return back to jetson-inference/python/training/classification
 4. Download [this image](https://imgur.com/fnHoCtz) to jetson-inference/python/training/classification. **Make sure its renamed to blackbird.jpg!**
-5. Input this code into the terminal
+5. Input this code into the terminal 
 ```
 imagenet.py --model=models/birds/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=data/birds/labels.txt blackbird.jpg blackbirdresult.jpg
 ```
