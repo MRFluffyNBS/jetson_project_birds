@@ -19,7 +19,14 @@ wget https://www.dropbox.com/s/0cafb7h48kal5ae/birds.tar.gz
 ```
 tar xvzf birds.tar.gz
 ```
-3. Next, change directories to jetson-inference/python/training/classification/models and run this command
+3. Next, change directories to jetson-inference/python/training/classification/models and run these commands:
+```
+mkdir birds
+cd birds
+wget https://www.dropbox.com/s/sy0xgzaln60l7ys/resnet18.onnx
+```
+You are all set to classify images! Return back to jetson-inference/python/training/classification
+4. 
 
 
 [View a video explanation here](video link)
