@@ -1,12 +1,12 @@
 # Bird ID
 
-Have you ever seen a bird outside and wanted to identify what species it is? This project uses machine learned to train on a database of 10 species of birds to correctly identify them from a camera or photo. 
+Have you ever seen a bird outside and wanted to identify what species it is? This project uses machine learning to train on a database of 10 species of birds to correctly identify them from a camera or photo. 
 
 ![add image descrition here](direct image link here)
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+This project employs transfer learning by retraining the Resnet-18 network on a dataset of images to correctly identify the species of birds.  
 
 ## Running this project
 
