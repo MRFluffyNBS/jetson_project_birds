@@ -6,7 +6,7 @@ Have you ever seen a bird outside and wanted to identify what species it is? Thi
 
 ## The Algorithm
 
-This project employs transfer learning by retraining the Resnet-18 network on a dataset of images to correctly identify the species of birds.  
+This project employs transfer learning by retraining the Resnet-18 network on a dataset of images to correctly identify the species of birds. The trained model is then exported in onnx format and processed with TensorRT using imagenet.py. 
 
 ## Running this project
 
