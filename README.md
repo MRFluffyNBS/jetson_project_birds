@@ -32,5 +32,6 @@ You are all set to classify images! Return back to jetson-inference/python/train
 imagenet.py --model=models/birds/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=data/birds/labels.txt blackbird.jpg blackbirdresult.jpg
 ```
 6. [Congrats!](https://imgur.com/mFMUxan)
+7. 
 
 [View a video explanation here](video link)
