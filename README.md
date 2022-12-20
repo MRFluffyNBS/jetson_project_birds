@@ -10,8 +10,12 @@ This project employs transfer learning by retraining the Resnet-18 network on a 
 
 ## Running this project
 
-1. Download [the bird dataset](https://www.dropbox.com/s/0cafb7h48kal5ae/birds.tar.gz?dl=0) and place the file into jetson-inference/python/training/classification/data.
-2. Use this command to unzip the file: 
+1. cd to jetson-inference/python/training/classification/data
+2. Download [the bird dataset](https://www.dropbox.com/s/0cafb7h48kal5ae/birds.tar.gz?dl=0) by running
+```
+wget https://www.dropbox.com/s/0cafb7h48kal5ae/birds.tar.gz
+```
+4. Use this command to unzip the file: 
 ```
 tar xvzf birds.tar.gz
 ```
