@@ -2,7 +2,7 @@
 
 Have you ever seen a bird outside and wanted to identify what species it is? This project uses machine learning using the Jetson Nano to train on a database of 10 species of birds and correctly identify them from a camera or photo. 
 
-![birb](https://imgur.com/BQudbqA)
+[birb](https://imgur.com/BQudbqA)
 
 ## The Algorithm
 
