@@ -19,6 +19,7 @@ wget https://www.dropbox.com/s/0cafb7h48kal5ae/birds.tar.gz
 ```
 tar xvzf birds.tar.gz
 ```
-3. Make sure to include any required libraries that need to be installed for your project to run.
+3. Next, change directories to jetson-inference/python/training/classification/models and run this command
+
 
 [View a video explanation here](video link)
