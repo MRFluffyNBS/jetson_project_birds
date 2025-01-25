@@ -1,6 +1,6 @@
 # Bird ID
 
-Have you ever seen a bird outside and wanted to identify what species it is? This project uses machine learning using the Jetson Nano to train on a database of 10 species of birds and correctly identify them from a camera or photo. Based on the Jetson AI [guide](https://github.com/dusty-nv/jetson-inference)
+Have you ever seen a bird outside and wanted to identify what species it is? This project uses machine learning using the Jetson Nano to train on a database of 10 species of birds and correctly identify them from a camera or photo. Based on the Jetson AI [guide](https://github.com/dusty-nv/jetson-inference).
 
 [birb](https://imgur.com/BQudbqA)
 
